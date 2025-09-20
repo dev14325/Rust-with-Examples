@@ -110,6 +110,6 @@ Capitalize - Practical string manipulation
 Feel free to suggest improvements or additional examples! This is a learning repository, and I welcome feedback and contributions.
 📚 Resources
 
-The Rust Programming Language Book
-Rust by Example
-Rustlings Exercises
+The Rust Programming Language Book  --> https://doc.rust-lang.org/book/
+Rust by Example  --> https://doc.rust-lang.org/rust-by-example/
+Rustlings Exercises --> https://github.com/rust-lang/rustlings
