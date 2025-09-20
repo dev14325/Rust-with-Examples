@@ -1,0 +1,19 @@
+# Build artifacts
+/target/
+/debug/
+
+# Rust specific
+*.exe
+*.pdb
+.rustc_info.json
+CACHEDIR.TAG
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
